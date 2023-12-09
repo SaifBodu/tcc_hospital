@@ -1,6 +1,6 @@
 {
     'name' : 'Hospital Management System',
-    'version' : '1.0',
+    'version' : '17.0.1.0.0',
     'author' : 'Abdishakur',
     'website' : 'www.example.com',
     'summary' : 'Hospital Management System Module'
